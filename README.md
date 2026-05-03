@@ -100,7 +100,6 @@
     <h2>Education</h2>
     <p><strong>Diploma in Information Technology</strong><br>
     Richfield Graduate Institution of Technology (2018)</p>
-
     <p><strong>Certificate in Human Resources</strong><br>
     Oxbridge Academy (2016)</p>
 </section>
